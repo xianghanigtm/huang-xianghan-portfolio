@@ -22,7 +22,6 @@ This portfolio showcases projects that best represent my technical skills and re
 Managed an enterprise endpoint protection platform covering 800+ devices. Responsibilities included device whitelisting, OS compliance checks, access log analysis, patch deployment, VLAN troubleshooting, and secure auditor access configuration.
 
 **Skills:** Endpoint security, NAC concepts, network diagnostics, compliance enforcement  
-**Evidence:** `/screenshots/endpoint-security/`
 
 ---
 
@@ -31,7 +30,6 @@ Managed an enterprise endpoint protection platform covering 800+ devices. Respon
 Led deployment of Windows LTSC enterprise upgrades for 300+ endpoints, including ISO distribution, patch integration, DISM scripting, hardware compatibility validation, and post-upgrade troubleshooting.
 
 **Skills:** OS deployment, DISM, batch scripting, system hardening  
-**Evidence:** `/screenshots/windows-upgrade/`
 
 ---
 
@@ -46,7 +44,6 @@ Built an Excel-based OT management system with:
 - Dynamic summary dashboard  
 
 **Skills:** VBA automation, workflow security, UAT coordination  
-**Evidence:** `/screenshots/ot-system/`  
 **Code samples:** `/code-samples/vba/`
 
 ---
